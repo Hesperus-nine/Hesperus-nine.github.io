@@ -116,8 +116,8 @@ pre {
     top: 0;
     left: 12px;
     margin-top: 12px;
-    -webkit-box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
-    box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
+    -webkit-box-shadow: 20px 0 #ffbd2e, 40px 0 #FFB3FF;
+    box-shadow: 20px 0 #ffbd2e, 40px 0 #FFB3FF;
 }
 
 code {
@@ -241,7 +241,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #ffceff 0%, #ffcbf8 100%);
 }
 
 .text-color {
